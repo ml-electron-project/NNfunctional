@@ -17,6 +17,7 @@ into numint.py in this folder.
 
 MIT License.
 
-## Author
+##How to cite
 
+Please cite the following work if you want to use CGCNN.
 
