@@ -12,12 +12,12 @@ In order to use the NR functional, please replace
 "(where you installed PySCF)/pyscf/dft/numint.py"
 into numint.py in this folder.
 
-
 ## Licence
 
 MIT License.
 
-##How to cite
 
-Please cite the following work if you want to use CGCNN.
+##
+
+lease cite the following work if you want to use
 
