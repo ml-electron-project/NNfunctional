@@ -19,5 +19,4 @@ MIT License.
 
 ## How to cite
 
-Please cite the following work if you use or develop a functional for Kohn-Sham DFT including neural-network in its structure. 
-
+Please cite the following work if you use or develop a functional related to this work.
