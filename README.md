@@ -17,7 +17,7 @@ into numint.py in this folder.
 MIT License.
 
 
-##
+## How to cite
 
-lease cite the following work if you want to use
+Please cite the following work if you use or develop a functional for Kohn-Sham DFT including neural-network in its structure. 
 
