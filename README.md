@@ -1,12 +1,10 @@
 NN-based functional
 ====
 
-Overview
 
-## Description
 
 Weight parameters of NN-based functionals and example codes of using them (.py).
-PySCF and Pytorch packages are needed to run the example codes.
+
 
 ## Requirement
 PySCF and Pytorch packages are needed to run the example codes.
