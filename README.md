@@ -13,3 +13,10 @@ Note that the numerical integration in the xc energy and potential of "NRA.py" i
 ## How to cite
 
 Please cite the following work if you use or develop a functional related to this work.
+
+@misc{1903.00238,
+Author = {Ryo Nagai and Ryosuke Akashi and Osamu Sugino},
+Title = {Completing density functional theory by machine-learning hidden messages from molecules},
+Year = {2019},
+Eprint = {arXiv:1903.00238},
+}
