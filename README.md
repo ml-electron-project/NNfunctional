@@ -1,7 +1,7 @@
 NN-based functional
 ====
 
-Weight parameters of NN-based functionals and example codes of using them (.py).
+Weight parameters of NN-based functionals and how to use them (.py).
 
 PySCF and Pytorch packages are needed to run the example codes.
 
