@@ -13,7 +13,7 @@ Note that the numerical integration in the xc energy and potential of "NRA.py" i
 NOTICE:The distributed codes includes the work that is distributed in the Apache License 2.0.
 
 ## Reference
-Cite the following paper in related works.
+Cite the following paper in any related works.
 @misc{1903.00238,
 Author = {Ryo Nagai and Ryosuke Akashi and Osamu Sugino},
 Title = {Completing density functional theory by machine-learning hidden messages from molecules},
