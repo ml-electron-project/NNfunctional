@@ -5,7 +5,7 @@ Parameters of NN-based functionals and example codes to call them (.py).
 
 PySCF and Pytorch packages are needed to run the example codes.
 
-To call the NRA functional, (Where you installed PySCF)/PySCF/dft/numint.py should be replaced to the one in this folder.
+To call the NRA functional, (Where you installed PySCF)/pyscf/dft/numint.py should be replaced to the one in this folder.
 
 Note that the numerical integration in the xc energy and potential of "NRA.py" is currently implemented in inefficient way. It will take a lot of computational time even for a small molecule. 
 
