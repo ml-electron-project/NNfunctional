@@ -1,18 +1,16 @@
 NN-based functional
 ====
 
-Weight parameters of NN-based functionals and how to use them (.py).
+Parameters of NN-based functionals and example codes to call them (.py).
 
 PySCF and Pytorch packages are needed to run the example codes.
 
-In order to use the NR functional, please replace 
-"(where you installed PySCF)/pyscf/dft/numint.py"
-into numint.py in this folder.
-Note that the numerical integration in the xc energy and potential of "NRA.py" is not implemented efficiently. It will take a long time even for a small molecule. 
+To call the NRA functional, a part of the source code of PySCF should be replaced. 
+Please contact to ngrttt[at]gmail.com
 
-## How to cite
+Note that the numerical integration in the xc energy and potential of "NRA.py" is not implemented efficiently. It will take a lot of computational time even for a small molecule. 
 
-Please cite the following work if you use or develop a functional related to this work.
+## Reference
 
 @misc{1903.00238,
 Author = {Ryo Nagai and Ryosuke Akashi and Osamu Sugino},
