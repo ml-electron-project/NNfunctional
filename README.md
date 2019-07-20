@@ -12,7 +12,7 @@ Note that the numerical integration in the xc energy and potential of "NRA.py" i
 NOTICE:The distributed codes includes the work that is distributed in the Apache License 2.0.
 
 
-21/07/2019 numint.py is modified for pyscf ver 1.6.2.
+21/07/2019 numint.py is modified for PySCF version 1.6.2.
 
 ## Reference
 Cite the following paper in any related works.
