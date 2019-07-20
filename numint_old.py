@@ -2,6 +2,7 @@
 
 #######################
 #Changed by Ryo Nagai, March 2019.
+#For PySCF version 1.5
 #This software includes the work that is distributed in the Apache License 2.0.
 #######################
 
